@@ -1,0 +1,4 @@
+{
+    "python.venvPath": "./",
+    "python.pythonPath": "./bin/python3"
+}
